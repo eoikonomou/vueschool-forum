@@ -2,7 +2,7 @@
   "name": "vueschool-forum",
   "version": "1.0.0",
   "description": "Awesome full blown mega madness forum",
-  "author": "Stathis Oikonomou <soikonomou@maseurope.com>",
+  "author": "Efstathios Oikonomou <eusoikonomou@gmail.com>",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
@@ -11,6 +11,7 @@
     "lint": "eslint --ext .js,.vue src"
   },
   "dependencies": {
+    "moment": "^2.24.0",
     "vue": "^2.5.2",
     "vue-router": "^3.0.1"
   },

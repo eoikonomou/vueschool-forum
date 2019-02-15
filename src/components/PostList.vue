@@ -5,7 +5,6 @@
 </template>
 
 <script>
-import sourceData from '@/data'
 import PostListItem from './PostListItem'
 
 export default {
